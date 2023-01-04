@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.italkutalk.lab16_2
 
 import org.junit.Test
 
